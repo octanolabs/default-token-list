@@ -42,7 +42,7 @@
   {
     "name": "Nothing",
     "address": "0x7d01b0ca9da2293ba0986c8ad39bf54f8f450d52",
-    "symbol": "FREAK",
+    "symbol": "NTHG",
     "decimals": 9,
     "chainId": 8,
     "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x7d01b0ca9da2293ba0986c8ad39bf54f8f450d52/logo.png"
