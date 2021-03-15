@@ -23,6 +23,14 @@
     "chainId": 8,
     "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x500684CE0D4f04aBeDff3e54fCF8acC5E6CFc4bD/logo.png"
   },
+    {
+    "name": "Freak.Finance",
+    "address": "0x823803ec07a4f524d5d01f07cda4b7e815b9f005",
+    "symbol": "FREAK",
+    "decimals": 9,
+    "chainId": 8,
+    "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x823803ec07a4f524d5d01f07cda4b7e815b9f005/logo.png"
+  },
   {
     "name": "10grans",
     "address": "0x0826180A4c981d5095Cb5c48BB2A098A44cf6f73",
@@ -32,6 +40,14 @@
     "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x0826180A4c981d5095Cb5c48BB2A098A44cf6f73/logo.png"
   },
   {
+    "name": "Nothing",
+    "address": "0x7d01b0ca9da2293ba0986c8ad39bf54f8f450d52",
+    "symbol": "NTHG",
+    "decimals": 9,
+    "chainId": 8,
+    "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x7d01b0ca9da2293ba0986c8ad39bf54f8f450d52/logo.png"
+  },
+    {
     "name": "Snarg01",
     "address": "0x497E20586F86c35592FF8F65CdE94F296514C387",
     "symbol": "SNARG",
